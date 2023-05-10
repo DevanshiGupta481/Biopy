@@ -1,0 +1,93 @@
+LOCUS       HQ447422                 900 bp    DNA     linear   SYN 25-JUL-2016
+DEFINITION  Synthetic construct Homo sapiens clone IMAGE:100070745;
+            CCSB001085_02 GLI pathogenesis-related 1 (glioma) (GLIPR1) gene,
+            encodes complete protein.
+ACCESSION   HQ447422
+VERSION     HQ447422.1
+KEYWORDS    ORFeome Collaboration; Gateway cloning system; full-length ORF with
+            stop codon or full-length ORF without stop codon; DFCI CCSB ORFeome
+            Collection clones.
+SOURCE      synthetic construct
+  ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+REFERENCE   1  (bases 1 to 900)
+  AUTHORS   Lamesch,P., Li,N., Milstein,S., Fan,C., Hao,T., Szabo,G., Hu,Z.,
+            Venkatesan,K., Bethel,G., Martin,P., Rogers,J., Lawlor,S.,
+            McLaren,S., Dricot,A., Borick,H., Cusick,M.E., Vandenhaute,J.,
+            Dunham,I., Hill,D.E. and Vidal,M.
+  TITLE     hORFeome v3.1: a resource of human open reading frames representing
+            over 10,000 human genes
+  JOURNAL   Genomics 89 (3), 307-315 (2007)
+   PUBMED   17207965
+REFERENCE   2  (bases 1 to 900)
+  AUTHORS   Lamesch,P., Li,N., Milstein,S., Fan,C., Hao,T., Szabo,G., Hu,Z.,
+            Venkatesan,K., Bethel,G., Martin,P., Rogers,J., Lawlor,S.,
+            McLaren,S., Dricot,A., Borick,H., Cusick,M.E., Vandenhaute,J.,
+            Dunham,I., Hill,D.E., Vidal,M., Rolfs,A., Beeman,G., MaCarron,S.,
+            Kelley,F., Hu,Y., Salehi-Ashtiani,K., Yang,X. and Shen,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2010) Cancer Biology, Dana-Farber Cancer
+            Institute, 44 Binney Street, Boston, MA 02115, USA
+COMMENT     This clone is part of the International ORFeome Collaboration
+            (http://www.orfeomecollaboration.org/).
+            Clone distribution information can be found at
+            http://image.hudsonalpha.org/.
+            Cloned by Center for Cancer Systems Biology(CCSB) at Dana-Farber
+            Cancer Institute(DFCI)
+            (http://ccsb.dfci.harvard.edu/web/www/ccsb/).
+FEATURES             Location/Qualifiers
+     source          1..900
+                     /organism="synthetic construct"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:32630"
+                     /clone="IMAGE:100070745; CCSB001085_02"
+                     /clone_lib="CCSB-DFCI hORFeome collection"
+                     /focus
+                     /note="vector:pDONR223; derived from parent clone
+                     IMAGE:4453841 (accession BC012510.1)"
+     source          51..848
+                     /organism="Homo sapiens"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:9606"
+     misc_feature    1..35
+                     /note="attL1 site"
+     misc_feature    36..50
+                     /note="linker at the 5' end of the ORF"
+     gene            51..>848
+                     /gene="GLIPR1"
+                     /db_xref="GeneID:11010"
+     CDS             51..>848
+                     /gene="GLIPR1"
+                     /note="without stop codon"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="GLI pathogenesis-related 1 (glioma)"
+                     /protein_id="ADQ31908.1"
+                     /db_xref="GeneID:11010"
+                     /translation="MRVTLATIAWMVSFVSNYSHTANILPDIENEDFIKDCVRIHNKF
+                     RSEVKPTASDMLYMTWDPALAQIAKAWASNCQFSHNTRLKPPHKLHPNFTSLGENIWT
+                     GSVPIFSVSSAITNWYDEIQDYDFKTRICKKVCGHYTQVVWADSYKVGCAVQFCPKVS
+                     GFDALSNGAHFICNYGPGGNYPTWPYKRGATCSACPNNDKCLDNLCVNRQRDQVKRYY
+                     SVVYPGWPIYPRNRYTSLFLIVNSVILILSVIITILVQHKYPNLVLLD"
+     misc_feature    849..866
+                     /note="linker at the 3' end of the ORF"
+     misc_feature    867..900
+                     /note="attL2 site"
+ORIGIN      
+        1 ttgttgagca atgctttttt ataatgccaa ctttgtacaa aaaagttggc atgcgtgtca
+       61 cacttgctac aatagcctgg atggtttctt ttgtctccaa ttattcacac acagcaaata
+      121 ttttgccaga tatcgaaaat gaagatttca tcaaagactg cgttcgaatc cataacaagt
+      181 tccgatcaga ggtgaaacca acagccagtg atatgctata catgacttgg gacccagcac
+      241 tagcccaaat tgcaaaagca tgggccagca attgccagtt ttcacataat acacggctga
+      301 agccacccca caagctgcac ccaaacttca cttcactggg agagaacatc tggactgggt
+      361 ctgtgcccat tttttctgtg tcttccgcca tcacaaactg gtatgacgaa atccaggact
+      421 atgacttcaa gactcggata tgcaaaaaag tctgtggcca ctacactcag gttgtttggg
+      481 cagatagtta caaagttggc tgcgcagttc aattttgccc taaagtttct ggctttgacg
+      541 ctctttccaa tggagcacat tttatatgca actacggacc aggagggaat tacccaactt
+      601 ggccatataa gagaggagcc acctgcagtg cctgccccaa taatgacaag tgtttggaca
+      661 atctctgtgt taaccgacag cgagaccaag tcaaacgtta ctactctgtt gtatatccag
+      721 gctggcccat atatccacgt aacagataca cttctctctt tctcattgtt aattcagtaa
+      781 ttctaatact gtctgttata attaccattt tggtacagca caagtaccct aatttagttc
+      841 ttttggacta cccaactttc ttgtacaaag ttggcattat aagaaagcat tgcttatcaa
+//
+
